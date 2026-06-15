@@ -1,10 +1,10 @@
-🚀 Bale Web Chat Scraper | اسکرپر و پشتیبان‌گیر پیام‌رسان بله
+🚀 Bale Web Chat Backup | پشتیبان‌گیر چت در پیام‌رسان بله
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org)
 [![Playwright](https://img.shields.io/badge/powered%20by-Playwright-green)](https://playwright.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-یک ابزار سریع و کاربردی برای استخراج، دانلود و پشتیبان‌گیری از تاریخچه چت‌ها در نسخه وب پیام‌رسان بله (**Bale Messenger**). این برنامه پیام‌ها را با ترتیب کاملاً خطی، مرتب و بدون به‌هم‌ریختگی با نمایش زمان ارسال پیام استخراج کرده و به صورت فایل اکسل تحویل می‌دهد.
+یک ابزار سریع و کاربردی برای استخراج، دانلود و پشتیبان‌گیری از تاریخچه چت‌ها در نسخه وب پیام‌رسان بله (**Bale Messenger**). این برنامه پیام‌ها را با ترتیب کاملاً خطی، مرتب و بدون به‌هم‌ریختگی با نمایش زمان ارسال پیام استخراج کرده و به صورت فایل اکسل تحویل می‌دهد. این ابزار از وب اسکریپینگ استفاده می‌کند.
 
 ---
 
